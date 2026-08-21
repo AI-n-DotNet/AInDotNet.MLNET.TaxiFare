@@ -9,6 +9,12 @@ This project uses a taxi fare dataset with more than **1 million observations** 
 The goal is not simply to build the highest-scoring model. The exercise is designed to demonstrate the experimental process behind practical predictive AI.
 
 ---
+## Get more on this exercise:
+https://aindotnet.com/2026/08/mlnet-predictive-ai-taxi-fare-exercise/
+
+## Get more resources on Predictive AI:
+https://aindotnet.com/forecasting/
+---
 
 ## What You Will Learn
 
