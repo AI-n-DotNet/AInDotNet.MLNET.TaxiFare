@@ -12,8 +12,10 @@ The goal is not simply to build the highest-scoring model. The exercise is desig
 ## Get more on this exercise:
 https://aindotnet.com/2026/08/mlnet-predictive-ai-taxi-fare-exercise/
 
+
 ## Get more resources on Predictive AI:
 https://aindotnet.com/forecasting/
+
 ---
 
 ## What You Will Learn
