@@ -18,6 +18,11 @@ https://aindotnet.com/forecasting/
 
 ---
 
+## Idea for this exercise
+https://learn.microsoft.com/lb-lu/%20dotnet/machine-learning/tutorials/predict-prices-with-model-builder
+
+---
+
 ## What You Will Learn
 
 This exercise demonstrates several important machine-learning concepts:
