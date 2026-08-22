@@ -18,7 +18,7 @@ https://aindotnet.com/forecasting/
 
 ---
 
-## Idea for this exercise
+## This exercise adapted from:
 https://learn.microsoft.com/lb-lu/%20dotnet/machine-learning/tutorials/predict-prices-with-model-builder
 
 ---
